@@ -5,3 +5,5 @@ Everaldo Canuto <everaldo.canuto@gmail.com>
 
 Lista de ausentes
 =================
+
+* Alessandro Siqueira
